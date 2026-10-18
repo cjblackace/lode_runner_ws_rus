@@ -1,7 +1,7 @@
 <p align="center"><img src="/img/logo.png"></p>
 
 
-# Lode Runner for WonderSwan (Русская версия)
+<h1 align="center">Lode Runner for WonderSwan (Русская версия)</h1>
 
 ## Об игре
 
