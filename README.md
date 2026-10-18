@@ -1,7 +1,7 @@
-# Бегущий Рудокоп  
-## Lode Runner for WonderSwan — руководство игрока
+<p align="center"><img src="/img/logo.png"></p>
 
----
+
+# Lode Runner for WonderSwan (Русская версия)
 
 ## Об игре
 
@@ -17,7 +17,7 @@
 
 ## Сюжет
 
-<img src="https://github.com/cjblackace/lode_runner_ws_rus/blob/main/manual/img/art_male2.png" align="right" width="320">
+<img src="/img/art_male2.png" align="right" width="320">
 
 Давным-давно существовало **Золотое Королевство** — страна с высокоразвитой научной цивилизацией.
 
@@ -60,6 +60,8 @@
 
 ## Основные правила
 
+<img src="/img/art_female.png" align="left" width="300">
+
 Цель каждого уровня:
 
 1. собрать **все золотые слитки**;
@@ -79,6 +81,8 @@
 
 ## Гидрокостюм
 
+<img src="/img/art_costume.png" align="right" width="150">
+
 На уровнях с водой перед стартом можно выбрать, надевать гидрокостюм или нет.
 
 - **Без гидрокостюма** герой очень медленно двигается под водой.
@@ -90,6 +94,8 @@
 ---
 
 ## Враги
+
+<img src="/img/art_robot.png" align="left" width="250">
 
 ### Человекоподобный робот
 
