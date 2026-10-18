@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Lode Runner for WonderSwan (Русская версия)</h1>
-
+<p align="center"><img src="/img/line.png"></p>
 ## Об игре
 
 <img src="/img/art_gold.png" align="left" width="150">
